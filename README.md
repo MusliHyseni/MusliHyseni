@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MusliHyseni
-- 👀 I’m interested in Deep Learning, Web Development
-- 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me:
+👋 Hi, I’m @MusliHyseni <br>
+👀 I’m interested in Data Science, Deep Learning, and Web Development <br>
+🌱 I’m currently learning Deep Learning <br>
+📫 How to reach me: <br>
   
                       Email: muslihyseni111@gmail.com
   
